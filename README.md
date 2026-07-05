@@ -6,11 +6,11 @@ This script installs OpenSSH Server and enables SSH on Ubuntu.
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/ahmedwaelx/ssh.git
 
 Enter the folder:
 
-cd YOUR_REPO_NAME
+cd ssh
 
 Make the script executable:
 
